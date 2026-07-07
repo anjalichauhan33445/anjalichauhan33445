@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anjali Chauhan</h1>
-<h3 align="center">B.Tech CSE (AI/ML) student @ Sharda University | Building full-stack & ML projects</h3>
+<h3 align="center">B.Tech CSE (AI/ML) student | Building full-stack & ML projects</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anjali-chauhan-707132323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
