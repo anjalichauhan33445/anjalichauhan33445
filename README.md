@@ -101,27 +101,3 @@
 </table>
 
 ---
-
-### Certifications
-
-- **Full Stack Development Bootcamp** — Udemy (Dr. Angela Yu)
-- **Python Mega Course** — Udemy (Ardit Sulce)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalichauhan33445&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalichauhan33445&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalichauhan33445&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Reach me at anjalichauhan33445@gmail.com — always open to collaborating on full-stack or ML projects!</i>
-</p>
