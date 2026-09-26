@@ -11,7 +11,7 @@
 
 ### About Me
 
-- Currently pursuing **B.Tech in Computer Science (AI/ML)** at Sharda University (2024–2028) — CGPA: **9.61**
+- Currently pursuing **B.Tech in Computer Science (AI/ML)** 
 - I love building things that span the full stack — from ML models to backend APIs to UI
 - Currently exploring ML pipelines, LLM tooling, and full-stack app architecture
 
